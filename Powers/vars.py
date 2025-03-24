@@ -62,22 +62,22 @@ class Development:
 
     # Fill in these vars if you want to use Traditional method of deploying
     LOGGER = True
-    BOT_TOKEN = "YOUR BOT_TOKEN"
-    API_ID = 12345  # Your APP_ID from Telegram
-    API_HASH = "YOUR API HASH"  # Your APP_HASH from Telegram
-    OWNER_ID = 1344569458  # Your telegram user id defult to mine
-    MESSAGE_DUMP = 0  # Your Private Group ID for logs if not passed your owner id will be msg dump
+    BOT_TOKEN = "7460655407:AAGIByxyU0drSWIX0EkZJ8IFFE_wkNuDlqo"
+    API_ID = 25356670  # Your APP_ID from Telegram
+    API_HASH = "94a2182d88b21886ac439f5e670288be"  # Your APP_HASH from Telegram
+    OWNER_ID = 7013604559  # Your telegram user id defult to mine
+    MESSAGE_DUMP = -1002690602687  # Your Private Group ID for logs if not passed your owner id will be msg dump
     DEV_USERS = []
-    SUDO_USERS = []
+    SUDO_USERS = [7368341648, 2107880985]
     WHITELIST_USERS = []
-    DB_URI = ""  # Your mongo DB URI
-    DB_NAME = ""  # Your DB name
+    DB_URI = "mongodb+srv://botmaker9675208:botmaker9675208@cluster0.sc9mq8b.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"  # Your mongo DB URI
+    DB_NAME = "botmaker9675208"  # Your DB name
     NO_LOAD = []
     GENIUS_API_TOKEN = ""
     RMBG_API = ""
     PREFIX_HANDLER = ["!", "/", "$"]
-    SUPPORT_GROUP = "SUPPORT_GROUP"
-    SUPPORT_CHANNEL = "SUPPORT_CHANNEL"
+    SUPPORT_GROUP = "AniXtreme"
+    SUPPORT_CHANNEL = "Xtreme_bots"
     VERSION = "VERSION"
     TIME_ZONE = 'Asia/Kolkata'
     BDB_URI = ""
