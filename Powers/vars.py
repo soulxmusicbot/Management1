@@ -62,7 +62,7 @@ class Development:
 
     # Fill in these vars if you want to use Traditional method of deploying
     LOGGER = True
-    BOT_TOKEN = "YOUR BOT_TOKEN"
+    BOT_TOKEN = "7460655407:AAGIByxyU0drSWIX0EkZJ8IFFE_wkNuDlqo"
     API_ID = 12345  # Your APP_ID from Telegram
     API_HASH = "YOUR API HASH"  # Your APP_HASH from Telegram
     OWNER_ID = 1344569458  # Your telegram user id defult to mine
@@ -70,14 +70,14 @@ class Development:
     DEV_USERS = []
     SUDO_USERS = []
     WHITELIST_USERS = []
-    DB_URI = ""  # Your mongo DB URI
-    DB_NAME = ""  # Your DB name
+    DB_URI = "mongodb+srv://botmaker9675208:botmaker9675208@cluster0.sc9mq8b.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"  # Your mongo DB URI
+    DB_NAME = "botmaker9675208"  # Your DB name
     NO_LOAD = []
     GENIUS_API_TOKEN = ""
     RMBG_API = ""
     PREFIX_HANDLER = ["!", "/", "$"]
-    SUPPORT_GROUP = "SUPPORT_GROUP"
-    SUPPORT_CHANNEL = "SUPPORT_CHANNEL"
+    SUPPORT_GROUP = "Xtreme_bots"
+    SUPPORT_CHANNEL = "AniXtreme"
     VERSION = "VERSION"
     TIME_ZONE = 'Asia/Kolkata'
     BDB_URI = ""
